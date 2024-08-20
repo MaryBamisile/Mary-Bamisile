@@ -12,6 +12,11 @@
 
 <h2>✨ CERTIFICATIONS</h2>
 
+
+<li>Azure Administrator Associate (AZ-104) 
+<li>ISC2 Certified in Cybersecurity
+<li>Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)</b> 
+<li>Microsoft Certified Trainer (MCT)
 <h2> 🤳 Connect with me:</h2>
 
 <b>[X]: https://x.com/MaryCybSec</b>
