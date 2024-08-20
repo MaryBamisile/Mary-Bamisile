@@ -13,10 +13,17 @@
 <h2>✨ CERTIFICATIONS</h2>
 
 
-<li>Azure Administrator Associate (AZ-104) 
+<li>Azure Administrator Associate (AZ-104) [link: https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/AED12115C4EDC0BD?sharingId=EC7F52AD2362AAA5]
+  
 <li>ISC2 Certified in Cybersecurity
-<li>Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)</b> 
-<li>Microsoft Certified Trainer (MCT)
+<img src="https://imgur.com/dFypMEB" height="80%" width="80%" alt="ISC(2) CC certificate" />
+  <blockquote class="imgur-embed-pub" lang="en" data-id="dFypMEB"><a href="https://imgur.com/dFypMEB">View post on imgur.com</a></blockquote>
+  
+<li>Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)[https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/8957931857A5C444?sharingId=EC7F52AD2362AAA5] <br>
+  
+<li>Microsoft Certified Trainer (MCT) 
+  <blockquote class="imgur-embed-pub" lang="en" data-id="eW9Y6h0"><a href="https://imgur.com/eW9Y6h0">View post on imgur.com</a></blockquote>
+  
 <h2> 🤳 Connect with me:</h2>
 
 <b>[X]: https://x.com/MaryCybSec</b>
