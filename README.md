@@ -1,8 +1,8 @@
 <h1>Hello World, I'm Mary! <br/><a href="https://github.com/marybamisile">Azure Security Engineer</a> <a href="https://www.linkedin.com/in/mary-bamisile"> & GRC Specialist </a>
 <h2>👨‍💻 Azure Cloud Projects:</h2>
 
-- <b>Microsoft Defender for cloud</b>
-  - [Project in progress]
+- <b>Microsoft Sentinel and Microsoft Defender for cloud</b>
+  - [https://github.com/marybamisile/MS-Sentinel-and-MS-Defender-lab]
 - <b>Azure Storage account</b>
   - [Project details upload in progress]
 - <b>PowerShell Scripting</b>
