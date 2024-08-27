@@ -4,7 +4,7 @@
 - <b>Microsoft Sentinel and Microsoft Defender for cloud</b>
   - [https://github.com/marybamisile/MS-Sentinel-and-MS-Defender-lab]
 - <b>Securing Azure Storage account</b>
-  - [https://github.com/marybamisile/Securing-Azure-Storage-Account-Lab
+  - [https://github.com/marybamisile/Securing-Azure-Storage-Account-Lab]
 - <b>Azure Backups
 
 <h2>📺 Upcoming Projects</h2>
