@@ -10,7 +10,7 @@
 
 <h2>📺 Upcoming Projects</h2>
 <b>PowerShell Scripting</b>
-  - [Project details upload in progress]
+  - [Project upload in progress]
   
 <h2>✨ CERTIFICATIONS</h2>
 
