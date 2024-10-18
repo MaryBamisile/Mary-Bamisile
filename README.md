@@ -7,6 +7,8 @@
   - [https://github.com/marybamisile/Securing-Azure-Storage-Account-Lab]
 - <b>Azure Backups
   - [https://github.com/MaryBamisile/Azure-Backup-and-Site-Recovery-Lab.git]
+- <b>Bash Scripting to automate a system report with a Cron job and email notification 
+  -[https://github.com/MaryBamisile/Bash-Scripting-lab.git]
 
 <h2>📺 Upcoming Projects</h2>
 <b>PowerShell Scripting</b>
