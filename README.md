@@ -17,13 +17,17 @@
 <h2>✨ CERTIFICATIONS</h2>
 
 
-<li>Azure Administrator Associate (AZ-104) [link: https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/AED12115C4EDC0BD?sharingId=EC7F52AD2362AAA5]
+<li>Azure Administrator Associate (AZ-104) 
+  <br>
+  - [link: https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/AED12115C4EDC0BD?sharingId=EC7F52AD2362AAA5]
   
 <li>ISC2 Certified in Cybersecurity
   
 ![image](https://github.com/user-attachments/assets/bf3f3b18-dfea-4e67-ba1b-29bcdb546d0d)
   
-<li>Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)[https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/8957931857A5C444?sharingId=EC7F52AD2362AAA5] <br>
+<li>Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+  <br>
+  - [https://learn.microsoft.com/api/credentials/share/en-us/MaryBamisile-0523/8957931857A5C444?sharingId=EC7F52AD2362AAA5] <br>
   
 <li>Microsoft Certified Trainer (MCT) 
   
